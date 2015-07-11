@@ -1,0 +1,250 @@
+Title: Ant: The Definitive Guide
+Author: Jesse Tilly, Eric Burke
+Section: Java
+Shelf: 1
+On Hands: 
+
+
+Title: Microsoft Word - apache3.doc
+Author: Eric Robert
+Section: Windows
+Shelf: 4
+On Hands: Vladimir Rudenko
+
+
+Title: ASP in Nutshell
+Author: O'Reilly
+Section: .Net
+Shelf: 1
+On Hands: Vladimir Rudenko
+
+
+Title: O'Reilly - Building Internet Firewalls, 2nd edition
+Author: Elizabeth D. Zwicky, Simon Cooper & D. Brent Chapman
+Section: Net
+Shelf: 3
+On Hands: Oleg Petrenko
+
+
+Title: Building Java Enterprise Applications Volume I: Architecture
+Author: Brett McLaughlin
+Section: Java
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: Cisco IOS in a Nutshell
+Author: James Boney
+Section: Net
+Shelf: 5
+On Hands: Oleg Petrenko
+
+
+Title: J2ME in a Nutshell
+Author: Kim Topley
+Section: Java
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: Java and SOAP
+Author: Robert Englander
+Section: Java
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: Java & XML, 2nd Edition
+Author: Brett McLaughlin
+Section: Java
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: Java Cryptography
+Author: Jonathan B. Knudsen
+Section: Java
+Shelf: 5
+On Hands: Oleg Petrenko
+
+
+Title: O'Reilly - Java™ Extreme Programming Cookbook
+Author: Eric M. Burke, Brian M. Coyner
+Section: Java
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: Java I/O
+Author: Elliotte Rusty Harold 
+Section: Java
+Shelf: 5
+On Hands: Oleg Petrenko
+
+
+Title: Java > Java? Management Extensions
+Author: Simon Wong
+Section: Java
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: O'Reilly - Java Message Service
+Author: Richard Monson-Haefel & David A. Chappell
+Section: Java
+Shelf: 5
+On Hands: Oleg Petrenko
+
+
+Title: Java NIO
+Author: Ron Hitchens
+Section: Java
+Shelf: 5
+On Hands: Oleg Petrenko
+
+
+Title: O'Reilly - JavaScript Application Cookbook
+Author: Jerry Bradenbaugh
+Section: JavaScript
+Shelf: 4
+On Hands: Vladimir Rudenko
+
+
+Title: Java Threads, 2nd edition
+Author: Scott Oaks & Henry Wong
+Section: Java
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: Java Web Services
+Author: David Chappell, Tyler Jewell
+Section: Java
+Shelf: 3
+On Hands: Oleg Petrenko
+
+
+Title: JBoss EJB WorkbooK
+Author: Bill Burke and Sacha Labourey
+Section: Java
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: Learning Perl, 3rd edition
+Author: Randal L. Schwartz & Tom Phoenix
+Section: Perl
+Shelf: 1
+On Hands: Oleg Petrenko
+
+
+Title: O'Reilly - Learning WML & WMLScript
+Author: Martin Frost 
+Section: WML
+Shelf: 2
+On Hands: Vladimir Rudenko
+
+
+Title: Linux Device Drivers, 2nd Edition
+Author: Alessandro Rubini & Jonathan Corbet
+Section: Linux
+Shelf: 4
+On Hands: Vladimir Rudenko
+
+
+Title: Lingo in a Nutshell (copyright, O'Reilly & Assoc. 1999)
+Author: Bruce Epstein
+Section: Other
+Shelf: 4
+On Hands: Vladimir Rudenko
+
+
+Title: Managing NFS and NIS
+Author: Hal Stern, Mike Eisler & Ricardo Labiaga
+Section: Linux
+Shelf: 2
+On Hands: Vladimir Rudenko
+
+
+Title: MySQL Cookbook
+Author: Paul DuBois
+Section: SQL
+Shelf: 1
+On Hands: Vladimir Rudenko
+
+
+Title: Peer to Peer
+Author: Andy Oram
+Section: Net
+Shelf: 5
+On Hands: Vladimir Rudenko
+
+
+Title: Perl and XML
+Author: Erik T. Ray & Jason McIntosh
+Section: Perl
+Shelf: 1
+On Hands: Vladimir Rudenko
+
+
+Title: Quick Reference Guide
+Author: Johan Vromans
+Section: Other
+Shelf: 5
+On Hands: Vladimir Rudenko
+
+
+Title: O'reilly-Python and XML 1st edition-2002
+Author: Christopher A. Jones & Fred L. Drake Jr.
+Section: Python
+Shelf: 2
+On Hands: Vladimir Rudenko
+
+
+Title: Running Linux, 4th Edition
+Author: Matthias Kalle Dalheimer, Terry Dawson, Lar Kaufman, Matt Welsh
+Section: Linux
+Shelf: 5
+On Hands: Vladimir Rudenko
+
+
+Title: Understanding the Linux Kernel
+Author: Daniel P. Bovet, Marco Cesati
+Section: Linux
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: Virtual Private Networks, Second Edition
+Author: Charlie Scott, Paul Wolfe, Mike Erwin
+Section: Net
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: Web Performance Tuning
+Author: Patrick Killelea
+Section: Other
+Shelf: 4
+On Hands: Oleg Petrenko
+
+
+Title: Web Servies Essentials
+Author: Ethan Cerami
+Section: Other
+Shelf: 4
+On Hands: Oleg Petrenko
+
+
+Title: XML Pocket Reference, 2nd edition
+Author: Robert Eckstein & Michel Casabiance
+Section: XML
+Shelf: 2
+On Hands: Oleg Petrenko
+
+
+Title: XSLT
+Author: Doug Tidwell
+Section: XML
+Shelf: 3
+On Hands: Oleg Petrenko
